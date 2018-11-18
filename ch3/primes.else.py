@@ -1,6 +1,6 @@
 primes = []                     # this will contain the primes in the end
 upto = 100                      # the limit, inclusive
-
+r
 for n in range(2, upto + 1):
 
     for divisor in range(2, n):
